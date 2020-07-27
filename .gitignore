@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# additional folders/files
+.idea/
+
+images/all/
+images/disney/
+images/pixar/
